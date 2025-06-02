@@ -19,7 +19,7 @@ div:hover {
 }
 
 h1 {
-  color: #ffffff;
+  color: #ff0000;
 }
 
 p {
